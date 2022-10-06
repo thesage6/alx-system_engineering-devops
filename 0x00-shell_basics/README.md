@@ -1,1 +1,1 @@
-This folder contains files that show the absolute path name of the current working directory
+ script that Display the contents list of your current directory
